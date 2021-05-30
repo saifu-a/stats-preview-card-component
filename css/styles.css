@@ -85,7 +85,7 @@ html {
 
 @media (min-width: 787px) {
   .container {
-    margin-top: 11%;
+    margin-top: 8.5%;
     margin-bottom: 0;
     width: 75%;
     flex-direction: row;
