@@ -83,7 +83,7 @@ html {
   color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 376px) {
+@media (min-width: 787px) {
   .container {
     margin-top: 11%;
     margin-bottom: 0;
